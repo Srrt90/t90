@@ -1,5 +1,5 @@
 <p align="center">
- <img width="180px" src="" align="center"/>
+ <img width="180px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.abc.net.au%2Ftechnology%2Farticles%2F2011%2F06%2F20%2F3248520.htm&psig=AOvVaw2EVRgwvSNA867Is-HKfRJv&ust=1726273584980000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjVkbLUvogDFQAAAAAdAAAAABAE" align="center"/>
  <h2 align="center">T90-Bot-MD</h2>
  <p align="center">Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
